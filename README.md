@@ -14,6 +14,8 @@ In this template you use the same elements (i.e., models, views, and controllers
 
 The template provides a "root" folder, called *Pages*. You create a separate folder for each general page you have in your application: f.x., Home, Account, Statistics. Sometimes you need to share elements across pages and you can use the *special page*, called Shared. Each page can contain ``PageController``s, views and components. For each component you should also create a separate folder, f.x. NavigationBar, SearchMenu, ProfileWatch. If you want to share components between pages, you should place them in the Shared folder instead.
 
+![Project structure](http://boyan.in/assets/component-project-structure.png)
+
 ### Pages
 Pages correspond to your "raw" controllers. One page can contain many subpages, i.e. different action methods. The base class for pages is ``PageController``. Each ``PageController`` contains a method, called ``Index()``. You can have other methods as well, but this one is requried.
 
