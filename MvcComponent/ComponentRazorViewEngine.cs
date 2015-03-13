@@ -1,6 +1,6 @@
 ﻿using System.Web.Mvc;
 
-namespace MvcComponentTemplate.Mvc
+namespace MvcComponent
 {
     /// <summary>
     /// Custom Razor engine that replace the paths of the views

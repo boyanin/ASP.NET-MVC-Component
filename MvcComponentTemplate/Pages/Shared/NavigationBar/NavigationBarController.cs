@@ -1,4 +1,4 @@
-﻿using MvcComponentTemplate.Mvc;
+﻿using MvcComponent;
 using System.Web.Mvc;
 
 namespace MvcComponentTemplate.Pages.Shared.NavigationBar

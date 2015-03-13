@@ -3,7 +3,7 @@ using System.Web.Mvc;
 using System.Web.Routing;
 using System.Web.SessionState;
 
-namespace MvcComponentTemplate.Mvc
+namespace MvcComponent
 {
     /// <summary>
     /// If one wants to create a page or component just with a view (i.e. with no controller attached),

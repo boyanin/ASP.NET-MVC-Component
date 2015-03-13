@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcComponentTemplate", "MvcComponentTemplate\MvcComponentTemplate.csproj", "{6EB3B124-47BA-4239-960F-7BA508AADA39}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcComponent", "MvcComponent\MvcComponent.csproj", "{94A08F37-06B8-462B-BAD4-7C6EEA11716D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6EB3B124-47BA-4239-960F-7BA508AADA39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6EB3B124-47BA-4239-960F-7BA508AADA39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6EB3B124-47BA-4239-960F-7BA508AADA39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94A08F37-06B8-462B-BAD4-7C6EEA11716D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94A08F37-06B8-462B-BAD4-7C6EEA11716D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94A08F37-06B8-462B-BAD4-7C6EEA11716D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94A08F37-06B8-462B-BAD4-7C6EEA11716D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

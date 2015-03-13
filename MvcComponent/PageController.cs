@@ -1,6 +1,6 @@
 ﻿using System.Web.Mvc;
 
-namespace MvcComponentTemplate.Mvc
+namespace MvcComponent
 {
     /// <summary>
     /// Default controller for pages

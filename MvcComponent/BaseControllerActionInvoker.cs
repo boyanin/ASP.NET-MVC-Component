@@ -2,7 +2,7 @@
 using System.Reflection;
 using System.Web.Mvc;
 
-namespace MvcComponentTemplate.Mvc
+namespace MvcComponent
 {
     /// <summary>
     /// Creates an action invoker that checks for a default action name and invokes it either on the 

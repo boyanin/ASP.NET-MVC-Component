@@ -1,6 +1,6 @@
 ﻿using System.Web.Mvc;
 
-namespace MvcComponentTemplate.Mvc
+namespace MvcComponent
 {
     /// <summary>
     /// The base class for creating components. Every component should define a method, called
