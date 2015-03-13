@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>MvcComponent</id>
+    <version>0.0.1</version>
+    <authors>Boyan Mihaylov</authors>
+    <owners>Boyan Mihaylov</owners>
+    <projectUrl>https://github.com/boyanin/ASP.NET-MVC-Component</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <title>ASP.NET MVC Component Helpers</title>
+    <description>A component-oriented helper methods for transforming a standard ASP.NET MVC project into small components.</description>
+    <copyright>Copyright 2015</copyright>
+    <tags>mvc asp.net component web</tags>
+    <dependencies>
+      <dependency id="Microsoft.AspNet.Mvc" version="5.2.3" />
+    </dependencies>
+  </metadata>
+</package>
